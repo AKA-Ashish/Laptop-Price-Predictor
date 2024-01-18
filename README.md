@@ -1,10 +1,5 @@
 
 <h1> Documentation </h1>
 
-<a href="https://docs.jupyter.org/en/latest/g">
-  <h4> Press Button </h4>
-  <img src="https://cdn2.vectorstock.com/i/1000x1000/31/56/green-round-button-web-icon-with-chrome-frame-vector-16723156.jpg" alt="Click Here" width="200" height="100">
-</a>
-
-
+[![Press Button ](https://media.istockphoto.com/id/177408872/photo/green-3d-button-isolated.jpg?s=612x612&w=0&k=20&c=cKd9Fx_xaXhgs_xFT_dj6MZEM1wkgR7Z-ccbJdG2_G4=)](https://docs.jupyter.org/en/latest/)
 
