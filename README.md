@@ -1,4 +1,5 @@
 
 <h1> Documentation </h1>
-<h3> What is Juptyer : </h3>  <a href="https://docs.jupyter.org/en/latest/"  target="_blank">Click Here</a>
+<!--  <a  href="https://docs.jupyter.org/en/latest/"  target="_blank">Click Here</a> -->
 
+<button onclick="document.location='https://docs.jupyter.org/en/latest/'">Click here</button>
